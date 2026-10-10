@@ -1,9 +1,6 @@
 # Welcome to Steep Leap! 
 
-<!-- HTML Embed: Works on personal websites, Notion, and platforms that support raw HTML -->
-<iframe frameborder="0" src="https://itch.io/embed/5133697?linkback=true&amp;border_width=0&amp;bg_color=83abf7&amp;fg_color=000000&amp;link_color=9a27e4&amp;border_color=707070" width="550" height="165">
-  <a href="https://p374r.itch.io/steepleap">SteepLeap by P374R</a>
-</iframe>
+[![Play on itch.io](https://static.itch.io/images/badge-color.svg)](https://p374r.itch.io/steepleap)
 
 Jump into **Steep Leap**, a challenging 2D pixel-art platformer and my very first indie game! Take control of a swift character as you leap across dangerous cliffs, dodge enemies, collect coins, and try to survive with your 3 lives.
 
