@@ -1,9 +1,8 @@
-# Steep Leap 
+# Welcome to Steep Leap! 
 
-[![Available on itch.io](https://static.itch.io/images/badge-color.svg)](https://p374r.itch.io/steepleap)
+[![Play on itch.io](https://static.itch.io/images/badge-color.svg)](https://p374r.itch.io/steepleap)
 
-**Jump into Steep Leap**, a challenging 2D pixel-art platformer and my very first indie game! Take control of a swift character as you leap across dangerous cliffs, dodge enemies, collect coins, and try to survive with your 3 lives.
-
+Jump into **Steep Leap**, a challenging 2D pixel-art platformer and my very first indie game! Take control of a swift character as you leap across dangerous cliffs, dodge enemies, collect coins, and try to survive with your 3 lives.
 
 ##  Controls
 
@@ -15,13 +14,13 @@
 
 ##  Credits & Asset Attribution
 
-Special thanks to the talented creators for the CC0 and Open Source assets used to bring this game to life:
+Special thanks to the talented creators for the CC0/Open Source assets used to bring this game to life:
 
-* **Character Sprites:** [Free Shinobi Sprites](https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/) by Craftpix
-* **Music:** [Free Medieval Soundtrack](https://alkakrab.itch.io/free-medieval-soundtrack-no-copyright) by alkakrab
-* **SFX:** Created using [ChipTone](https://sfbgames.itch.io/chiptone) by sfbgames
-* **Icons:** [Pixel Icons](https://disven.itch.io/pixel-icons-and-game-controller-2) by Disven
-* **Fonts:** [Kenney Fonts](https://kenney.nl/assets/kenney-fonts) by Kenney
+* **CHARACTER SPRITES:** [Free Shinobi Sprites by Craftpix](https://craftpix.net/freebies/free-shinobi-sprites-pixel-art/)
+* **MUSIC:** [Free Medieval Soundtrack by alkakrab](https://alkakrab.itch.io/free-medieval-soundtrack-no-copyright)
+* **SFX:** [ChipTone Audio Generator by sfbgames](https://sfbgames.itch.io/chiptone)
+* **ICONS (Hearts):** [Pixel Icons by Disven](https://disven.itch.io/pixel-icons-and-game-controller-2)
+* **FONTS:** [Kenney Fonts by Kenney](https://kenney.nl/assets/kenney-fonts)
 
 ---
 
@@ -29,4 +28,6 @@ Special thanks to the talented creators for the CC0 and Open Source assets used 
 
 Copyright (c) 2026 P374R. All Rights Reserved.
 
-This game is provided for free, personal, non-commercial use. You may download and play the game, but you may not copy, modify, redistribute, or sell this software without explicit written permission from the author.
+This game is provided for free, personal, non-commercial use. You may download and play the game, but you may not copy, modify, redistribute, or sell this software without explicit written permission.
+
+**Thank you for playing!**
