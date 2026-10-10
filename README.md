@@ -2,11 +2,10 @@
 
 [![Available on itch.io](https://static.itch.io/images/badge-color.svg)](https://p374r.itch.io/steepleap)
 
-**Jump into Steep Leap**, a challenging 2D pixel-art platformer and my very first indie game! Take control of a swift shinobi as you leap across dangerous cliffs, dodge enemies, collect coins, and try to survive with your 3 lives.
+**Jump into Steep Leap**, a challenging 2D pixel-art platformer and my very first indie game! Take control of a swift character as you leap across dangerous cliffs, dodge enemies, collect coins, and try to survive with your 3 lives.
 
-> ** [Play or Download Steep Leap directly on itch.io!](https://p374r.itch.io/steepleap)**
 
-## ⌨️ Controls
+##  Controls
 
 * **Move:** `Left` / `Right` Arrow Keys (or `A` / `D`)
 * **Jump:** `Spacebar` (or `Up` / `W`)
